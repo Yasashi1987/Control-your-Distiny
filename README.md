@@ -1,4 +1,3 @@
-# cdistiny
 Thank you for using "Control your Destiny".
 
 About Advertisements This application uses AdMob (Google Inc.) as an advertisement distribution tool, and AdMob may automatically acquire information about users. Please refer to the following link of the application privacy policy of the ad-serving company for the information to be acquired, purpose of use, provision to third parties, etc.
